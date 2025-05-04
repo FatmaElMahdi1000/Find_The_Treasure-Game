@@ -16,3 +16,4 @@ except FileNotFoundError:
   
 character = player()
 character.setting()
+character.reset()
