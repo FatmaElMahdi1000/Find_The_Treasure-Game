@@ -39,7 +39,7 @@ class player:
             if Confirmation == "":
                 if self.gender == '1':
                     self.gender = 'Female'
-                    print(f"Congrats! Your character info is ready! Gender: {self.gender} and Name: {self.name} are both SAVED!") 
+                    print(f"Congrats! Your character info is ready! Gender: {self.gender} and Name: {self.name} are both 'SAVED'!") 
                     break
                 elif self.gender == '2':
                     self.gender = 'Male'
