@@ -16,4 +16,5 @@ except FileNotFoundError:
   
 character = player()
 character.setting()
+character.PlayerName()
 character.reset()
