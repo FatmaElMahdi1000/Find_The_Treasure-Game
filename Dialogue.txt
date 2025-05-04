@@ -1,0 +1,4 @@
+Forest: The trees whisper as you walk through the dark forest.
+Cave: The sound of dripping water echoes in the cave.
+Village: Villagers greet you warmly with smiles.
+Tower: You hear a faint magical humming inside the tower.
