@@ -1,5 +1,5 @@
 DIALOGUE = {
-"Maze_Entrance": """You blink.
+"Maze_Entrance": """ "You blink.
 
 The ground beneath you crumbles away  
 like sand slipping between your fingers.
@@ -31,7 +31,7 @@ You push yourself up, heart hammering.
 
 Whispers drift like smoke across the walls.
 
-You are not alone. On the top of that, SUPER CONFUSED!.""", 
+You are not alone. On the top of that, SUPER CONFUSED!." """, 
 
 "MAZE_OURMAP": """
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -50,14 +50,14 @@ You are not alone. On the top of that, SUPER CONFUSED!.""",
     │        │  │  (2)   │ │        │ │        │
     └────────┘  └────────┘ └────────┘ └────────┘
 
-                Which way will you go? """, 
+                Which way will you go? """
 
 
 
 
 }
 
-Forest: The trees whisper as you walk through the dark forest.
-Cave: The sound of dripping water echoes in the cave.
-Village: Villagers greet you warmly with smiles.
-Tower: You hear a faint magical humming inside the tower.
+##Forest: The trees whisper as you walk through the dark forest.
+##Cave: The sound of dripping water echoes in the cave.
+##Village: Villagers greet you warmly with smiles.
+##Tower: You hear a faint magical humming inside the tower.
